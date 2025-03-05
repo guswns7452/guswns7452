@@ -18,9 +18,15 @@
 
 <br>
 
+## 💼 Work Experience
+- IBK기업은행 : 2025년 상반기 청년인턴
+<br>
+
+
 ## 🏫 Education
 - 한국공학대학교 컴퓨터공학전공 (평균학점 : 3.85 / 4.5) (전공평점 : 4.05 / 4.5)
 <br>
+
 
 ## ✏️ Sites
 #### ✅ Velog (기술 블로그) :  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=guswns7451)](https://velog.io/@guswns7451)
