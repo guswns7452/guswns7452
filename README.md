@@ -1,5 +1,5 @@
 # 👋 Hyeon Joon Jeon
-## 🤔 About Me.
+<!-- ## 🤔 About Me.
 ### 1️⃣ 이유와 목적을 중요하게 생각하는 사람 
 **이유와 목적**이 없는 일은 없습니다. "이 작업을 통해서 어떤 문제점을 해결할 수 있을까"<br> "더 나은 방법은 없을까?" 주어진 모든 업무에 더 나은 **해결책**을 고민하는 사람입니다. <br>
 
@@ -8,7 +8,7 @@
 
 ### 3️⃣ 꾸준히 지식 공유를 위해 노력하는 사람
 저의 지식을 공유하는 것은 알고있는 개념을 정리하는데에 도움이 되고, 다른 사람이 성장하는 모습을 보며 뿌듯함을 느낍니다. 서로 상생하며 관계를 이어나가고 있습니다. <br><br>
-
+-->
 ## 🔧 Tech Stack
 - Language : Python / Java / Flutter
 - Framework : Spring Boot / Flask
@@ -20,6 +20,7 @@
 
 ## 💼 Work Experience
 - IBK기업은행 : 2025년 상반기 청년인턴 (2025.01.10 ~ 2025.02.21)
+- IBK기업은행 : 2025년 상반기 신입행원 (2025.06.16 ~ )
 <br>
 
 
@@ -36,7 +37,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns7452)](https://solved.ac/guswns7452/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguswns7452&count_bg=%2319ABC0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=guswns7452&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **guswns7452/guswns7452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
